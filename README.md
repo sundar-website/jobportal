@@ -1,5 +1,5 @@
 # jobportal
+
 Hi Mam/Sir,
-  The job apply plugin working for create jobs and as well as job applicant apply the job based on category into the plugin. 
-  It helps to listing the jobs and job applicant details in list of table view in page. 
-  I attach the document for how perform the plugin. 
+
+The job application plugin is functioning to create jobs and allow job applicants to apply for jobs based on categories within the plugin. It helps in listing jobs and displaying job applicant details in a tabular view on the page. I have attached a document detailing how to use the plugin.
